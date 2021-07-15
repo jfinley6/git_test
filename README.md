@@ -1,0 +1,1 @@
+This is John Finley's first git project!
